@@ -25,8 +25,17 @@ In this hackathon, ReNew Power shared minute-wise normalised data of wind speed,
 
 **2.2) Test:-** 303202 rows x 14 columns
 
-The columns provided in the dataset are as follows:
+![Test_Data_P1](https://user-images.githubusercontent.com/84449238/188281174-00f20969-869a-40a3-ae93-6c75d98b8cfc.JPG)
 
-![train_Data_P1](https://user-images.githubusercontent.com/84449238/188280733-eb2d6fcc-5337-41d3-82e7-79f259a0c08c.JPG)
+![Test_Data_P2](https://user-images.githubusercontent.com/84449238/188281184-3bcf900c-0408-4230-9e1f-a9c378952205.JPG)
 
+**3) Evaluation:-**
+
+3.1)The submission will be evaluated using the Mean Absolute Percentage Error.
+
+3.2)The public leaderboard is evaluated on 25% of Test data.
+
+3.3)The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data.
+
+3.4) Final score will be  70*[Leaderboard (100% of test dataset)] + 30*[Solution Approach/Code]
 
