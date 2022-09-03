@@ -18,7 +18,8 @@ In this hackathon, ReNew Power shared minute-wise normalised data of wind speed,
 
 ![train_Data_P1](https://user-images.githubusercontent.com/84449238/188280798-ad081e6c-1b73-43c4-873a-c68c87c8654d.JPG)
 
-![train_Data_P2](https://user-images.githubusercontent.com/84449238/188280805-9a695c92-19ad-495a-bcc1-7df6fb62abb6.JPG)
+![train_Data_P2](https://user-images.githubusercontent.com/84449238/188280886-b1e0c97d-43fe-4325-b325-4ff9f11e3fbc.JPG)
+
 
 
 **2.2) Test:-** 303202 rows x 14 columns
