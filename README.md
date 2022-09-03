@@ -37,3 +37,4 @@ In this hackathon, ReNew Power shared minute-wise normalised data of wind speed,
 
 3.4) Final score will be  70*[Leaderboard (100% of test dataset)] + 30*[Solution Approach/Code]
 
+**4) Competition Link:-**  https://machinehack.com/hackathons/renew_power_hiring_hackathon/overview
