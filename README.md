@@ -3,6 +3,7 @@
 # Predict_Turbine_Rotor_Bearing_Temperature-RenewPower-MachineHack
 
 **a) Overview:-**
+
 ReNew Power is one of the largest renewable energy Independent Power Producers in India and globally. ReNew Power develops, builds, owns, and operates utility-scale wind and solar energy projects, and hydro projects. As of June 14, 2022, ReNew Power had a gross total portfolio of ~12.8 GW of renewable energy projects across India. To know more, visit www.renewpower.in and follow us on LinkedIn, Facebook, Twitter and Instagram
 
 Unplanned downtime of wind turbines can result in a significant loss of revenue and energy and can easily scale to millions of dollars a year. It is therefore pivotal that flagging of the failure of components is made to prevent further loss and perform maintenance. It, however, involves replacement of components and higher costs. Condition-based monitoring systems rely on supervisory control and data acquisition systems to predict faults and get valuable insights into the turbine’s performance.
