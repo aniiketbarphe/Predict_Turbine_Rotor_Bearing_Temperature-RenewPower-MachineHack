@@ -16,6 +16,11 @@ In this hackathon, ReNew Power shared minute-wise normalised data of wind speed,
 
 **2.1) Train:-** 909604 rows x 16 columns 
 
+![train_Data_P1](https://user-images.githubusercontent.com/84449238/188280798-ad081e6c-1b73-43c4-873a-c68c87c8654d.JPG)
+
+![train_Data_P2](https://user-images.githubusercontent.com/84449238/188280805-9a695c92-19ad-495a-bcc1-7df6fb62abb6.JPG)
+
+
 **2.2) Test:-** 303202 rows x 14 columns
 
 The columns provided in the dataset are as follows:
