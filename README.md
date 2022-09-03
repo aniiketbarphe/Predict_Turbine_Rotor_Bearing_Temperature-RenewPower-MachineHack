@@ -2,7 +2,7 @@
 
 # Predict_Turbine_Rotor_Bearing_Temperature-RenewPower-MachineHack
 
-**a) Overview:-**
+**1) Overview:-**
 
 ReNew Power is one of the largest renewable energy Independent Power Producers in India and globally. ReNew Power develops, builds, owns, and operates utility-scale wind and solar energy projects, and hydro projects. As of June 14, 2022, ReNew Power had a gross total portfolio of ~12.8 GW of renewable energy projects across India. To know more, visit www.renewpower.in and follow us on LinkedIn, Facebook, Twitter and Instagram
 
@@ -11,3 +11,9 @@ Unplanned downtime of wind turbines can result in a significant loss of revenue 
 In this hackathon, ReNew Power shared minute-wise normalised data of wind speed, power and temperature data for multiple components of a wind turbine. The company is looking to create a model to get an ideally functioning turbine’s expected rotor bearing temperature. It will then use the model to check the deviation of the actual rotor bearing temperature of the faulty turbine from the expected temperature. 
 
 ** It is to be noted that the hackathon is not a time series-based prediction, as data is divided randomly. 
+
+**2) Dataset description:-** The dataset contains the following files,
+
+**2.1) Train:-** 909604 rows x 16 columns 
+**2.2) Test:-** 303202 rows x 14 columns
+
